@@ -13,6 +13,4 @@ Fully executing this method may take several minutes
 to store information in the database.
 After some products are stored into the database you can run this method:testCrawledResult() to see the information
 
-3-Run this method testCrawledResult() in CrawlerSqliteApplicationTests class  to display information of products 
- 
-
+3-Run this method testCrawledResult() in CrawlerSqliteApplicationTests class  to display information of products
